@@ -80,5 +80,11 @@ Page({
    */
   onShareAppMessage: function () {
   
+  },
+  /**
+   * 付款
+   */
+  payOrder: function(){
+    
   }
 })

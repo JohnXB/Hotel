@@ -11,9 +11,9 @@
 		"newFeature": true
 	},
 	"compileType": "miniprogram",
-	"libVersion": "2.0.4",
-	"appid": "wx5eb0f8c2dcaa9530",
-	"projectname": "hotel",
+	"libVersion": "2.0.9",
+	"appid": "wxccfa30f546aa35b2",
+	"projectname": "Hotel",
 	"isGameTourist": false,
 	"condition": {
 		"search": {
